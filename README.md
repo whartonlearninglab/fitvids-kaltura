@@ -1,2 +1,2 @@
-# fitvids-kaltura
-modified fitvids to support responsive kaltura videos
+# fitvids-kaltura (registered as lldev-fitvids-kaltura with bower)
+Modified fitvids to support responsive kaltura videos
