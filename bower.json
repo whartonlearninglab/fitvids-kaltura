@@ -1,0 +1,21 @@
+{
+  "name": "fitvids-kaltura",
+  "homepage": "https://github.com/whartonlearninglab/fitvids-kaltura",
+  "version": "1.0",
+  "source": "git://github.com/whartonlearninglab/fitvids-kaltura.git",
+  "ignore": [
+    ".gitignore",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [],
+  "authors": [
+    "Learning Lab <lldev@wharton.upenn.edu>"
+  ],
+  "description": "fitvids support for kaltura videos",
+  "moduleType": [],
+  "license": "MIT"
+}
